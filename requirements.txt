@@ -1,0 +1,4 @@
+solders>=0.18.0
+solana>=0.30.0
+base58>=2.1.1
+loguru==0.7.2
