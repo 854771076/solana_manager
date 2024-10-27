@@ -3,7 +3,7 @@
 
 2. Configure RPC URL:
    - Open `data/config.py`
-   - Replace the RPC URL with your own from [Chainstack](https://chainstack.com/) or use default:
+   - Replace the RPC URL with your own or use default:
    ```python
    RPC_URLS = {
        "MAINNET": "your_rpc_url_here",

@@ -1,5 +1,4 @@
 # Solana RPC URLs
-# free rpc here https://chainstack.com/
 RPC_URLS = {
     "MAINNET": "https://grass.helius-rpc.com/?api-key=96bb60fe-c4e7-4fb5-8a7f-e02bb63ba823",
 }
