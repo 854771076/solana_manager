@@ -1,6 +1,6 @@
 # Solana RPC URLs
 RPC_URLS = {
-    "MAINNET": "https://stylish-winter-sanctuary.solana-mainnet.quiknode.pro/191409a7bcca3ce7583b5d67e2f9c770505d81c2",
+    "MAINNET": "https://stylish-winter-sanctuary.solana-mainnet.quiknode.pro/xxx",
 }
 
 # Logging configuration
