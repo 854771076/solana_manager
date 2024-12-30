@@ -1,6 +1,6 @@
 # Solana RPC URLs
 RPC_URLS = {
-    "MAINNET": "https://grass.helius-rpc.com/?api-key=96bb60fe-c4e7-4fb5-8a7f-e02bb63ba823",
+    "MAINNET": "https://stylish-winter-sanctuary.solana-mainnet.quiknode.pro/191409a7bcca3ce7583b5d67e2f9c770505d81c2",
 }
 
 # Logging configuration
